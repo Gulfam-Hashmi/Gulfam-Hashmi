@@ -47,7 +47,7 @@
 * [ ] Completing DSA
 * [ ] Completing **Coursera** data analytics course
 ---
- # Contact me
+ # Contact Me
  * 📧 **Email:** gulfamsattar000@gmail.com
 * 🔗 **LinkedIn:** [Gulfam Hashmi](https://www.linkedin.com/in/gulfam-hashmi-6100b136b/)
 * 📊 **Kaggle:** [Gulfam Hsahmi](https://www.kaggle.com/gulfamhashmi)
