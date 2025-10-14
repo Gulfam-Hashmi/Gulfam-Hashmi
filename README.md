@@ -1,4 +1,4 @@
-![Welcome Banner](https://storage.googleapis.com/gemini-pro-image-generation-content/v3/0.25.0/2025-07-14/1920_1080_e9c325c7-952d-452f-8a03-9d0a68d712e3/2025-07-14_21-30-58_6329468_Welcome_to_My_Profile.png) 
+![Welcome Banner](image.png) 
 # Hello! My name is Gulfam Hashmi
 ----
 > ### My motivation to work is: "Just sit and work"
