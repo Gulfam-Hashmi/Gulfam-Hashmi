@@ -38,7 +38,9 @@
 > This section showcases my accidental works
  * [**Welcom to Lahore:**](https://github.com/Gulfam-Hashmi/Welcome-to-Lahore) My first Frontend project which is user friendly and guide for the foreigner tourists.
  * [**DSA LAB:**](https://github.com/Gulfam-Hashmi/DSA-Labs) This is my ongoing repository in which I uploade the Weekly DSA LAB in our university.
- * [**Important Class:**](https://github.com/Gulfam-Hashmi/Stack_class) During DSA i have to make new classes like QUEUE,STACK and LINKED LISTS which is used again and again in different tasks.
+ * [**Important Class:**](https://github.com/Gulfam-Hashmi/Stack_class) During DSA i have to make some classes like QUEUE,STACK and LINKED LISTS which is used again and again in different tasks.
+ * [**Car_price_pridiction:**]((https://github.com/Gulfam-Hashmi/Car_price_pridiction)) In my IDS course, I tried to perform linear regression on set of data to predict the prices of cars with differenct feature.
+ * [**pandas_pro_chatbot:**]((https://github.com/Gulfam-Hashmi/pandas_pro_chatbot)) Just a little experiments with AI,LLMS where created a chatbot using AI to teach me pandas or deal with any queries related to this.
 
  ----
  # 📝 Goals & Checklist
