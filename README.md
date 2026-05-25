@@ -45,9 +45,10 @@
  ----
  # 📝 Goals & Checklist
 ### Current Learning Focus
-* [x] Learned markdown
+* [ ] BSDS 
 * [ ] Completing DSA
-* [ ] Completing **Coursera** data analytics course
+* [ ] Building useful project
+* [ ] ML
 ---
  # Contact Me
  * 📧 **Email:** gulfamsattar000@gmail.com
