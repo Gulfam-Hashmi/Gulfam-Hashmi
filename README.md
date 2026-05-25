@@ -1,7 +1,7 @@
 ![Welcome Banner](image.png) 
 # Hello! My name is Gulfam Hashmi
 ----
-> ### My motivation to work is: "Just sit and work"
+> ### My motivation to work is: "Sit, work and thrive"
 
 ----
 # Table of contents:
@@ -20,12 +20,12 @@
 
 ## Interest and Goals:
 
-* Exploring the insights of **DSA** and **DATA ANALYTICS**
-* My interst is in **DATA VISUALIZATION** and **Cloud Computing**
+* Exploring the insights of **DSA**,**DATA ANALYTICS**,**ML** and **AI**.
+* My interst is in **DEVELOPMENT** and **Building real-world project**
 
 ----
 # Skills
-* **Programming Languages:** JS,CSS,HTML,C++,PYTHON
+* **Programming Languages:** JS,CSS,HTML,C++,PYTHON,SQl
 * **Web Development:** Frontened
 ------
 ### Tools & Platforms
